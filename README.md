@@ -1,7 +1,7 @@
 # Yonder Castillo 
 
 ### UX & UI DESIGNER / ILLUSTRATOR
-3603 Courtland Place South. Seattle, WA 98144
+Seattle, WA 98144
 (786) 683 - 9870 
 YONDER@YONDERCASTILLO.COM
 WWW.YONDERCASTILLO.COM
@@ -9,7 +9,7 @@ WWW.YONDERCASTILLO.COM
 # **Experience** #
 
 ### **Shift Supervisor**
-Starbucks Coffee Company *SUMMER 2016 - CURRENT*
+#### Starbucks Coffee Company *SUMMER 2016 - CURRENT*
 
 Can confidently and strategically delegate responsibilities and direction to the team
 and create design solutions for advertising products and new drinks based on
