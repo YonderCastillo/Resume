@@ -50,9 +50,12 @@ Agile Methodologies
 # **Education**
 ### Milwaukee Institute of Art and Design
  Major: Illustration
+ 
  Minor: Communication Design
 and Art History
+
  BFA: Bachelor’s of Fine Arts
+ 
 Graduated: May 2018
 
 # **Software**
