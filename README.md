@@ -48,17 +48,17 @@ Testing, User Research, User Interviews, Storyboards, Prototyping, Comparative A
 Agile Methodologies
 
 # **Education**
-Milwaukee Institute of Art and Design
-Major: Illustration
-Minor: Communication Design
+### Milwaukee Institute of Art and Design
+ Major: Illustration
+ Minor: Communication Design
 and Art History
-BFA: Bachelor’s of Fine Arts
+ BFA: Bachelor’s of Fine Arts
 Graduated: May 2018
 
 # **Software**
-Adobe Creative Suite:
+### Adobe Creative Suite:
 Photoshop, Illustrator, InDesign,
 LightRoom, XD
-Other:
+### Other:
 Sketch (UX UI User Experience),
 Keynote, InVision, Craft, Figma
