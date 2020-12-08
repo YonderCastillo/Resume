@@ -1,15 +1,15 @@
 # Yonder Castillo 
 
 ### UX & UI DESIGNER / ILLUSTRATOR
-Seattle, WA 98144
-(786) 683 - 9870 
-YONDER@YONDERCASTILLO.COM
+Seattle, WA 98144 |
+(786) 683 - 9870 |
+YONDER@YONDERCASTILLO.COM |
 WWW.YONDERCASTILLO.COM
 
 # **Experience** #
 
 ### **Shift Supervisor**
-#### Starbucks Coffee Company *SUMMER 2016 - CURRENT*
+Starbucks Coffee Company | *SUMMER 2016 - CURRENT*
 
 Can confidently and strategically delegate responsibilities and direction to the team
 and create design solutions for advertising products and new drinks based on
@@ -17,7 +17,7 @@ marketing research. Handles management of a customer service team. Has to
 ensure quality for customers in a fast-paced, collaborative environment.
 
 ### **UX & UI Designer/ Illustrator**
-Freelance Artist *SPRING 2014 - CURRENT*
+Freelance Artist | *SPRING 2014 - CURRENT*
 
 Proficient with digital and traditional media in addition to great compositional and
 typographical skills. Created designs, concepts, wireframes, mock ups, and
@@ -25,7 +25,7 @@ prototypes for layouts, user interfaces, and other products. Developed graphics 
 layouts for products independently as well as in a team. Expert photo retouching skills.
 
 ### **Graphic Designer/ Photographer**
-David Barnett Gallery *SPRING 2015 - SUMMER 2018*
+David Barnett Gallery | *SPRING 2015 - SUMMER 2018*
 
 Tasked with management of website user interface and management of the design
 and advertising team. Found a way to ensure quality for customer order and based
@@ -33,7 +33,7 @@ design on customer needs. Used Photoshop to advertise products, design and
 advertise marketing campaigns for products in a fast-paced, collaborative environment.
 
 ### **MIAD Mentor and Ambassador**
-Milwaukee Institute of Art and Design *FALL 2014 - FALL 2017*
+Milwaukee Institute of Art and Design | *FALL 2014 - FALL 2017*
 
 Had to use strong interpersonal communication skills to teach students
 communication design in Adobe Creative Cloud, including Photoshop, Illustrator,
